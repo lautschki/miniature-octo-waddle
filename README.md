@@ -1,7 +1,7 @@
 # miniature-octo-waddle
 
 Das ist ein Test-Repository aus der Lehrveranstaltung **Computational Background Skills (CBS)**.
-Hier übe ich den Umgang mit Git und GitHub: Dateien anlegen, stagen, committen und pushen.
+Hier übe ich den Umgang mit Git und GitHub: Dateien anlegen, stagen, committen und pushen...
 
 ## Inhalt des Ordners
 
